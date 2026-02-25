@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\data\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\migrations\\20260213112102_creating-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\migrations\\20260213112102_creating-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\devspot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\devspot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DevSpot/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|c:\\users\\elitebook 840 g6\\source\\repos\\devspot\\devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BFE38B6-328A-481C-9AF7-E462639BDF55}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DevSpot\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:40:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\appsettings.json",
+              "RelativeDocumentMoniker": "DevSpot\\appsettings.json",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\appsettings.json",
+              "RelativeToolTip": "DevSpot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T11:05:23.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Program.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeToolTip": "DevSpot\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:02:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DevSpot\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:41:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Data\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\RoleSeeder.cs",
+              "RelativeToolTip": "DevSpot\\Data\\RoleSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:15:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Data\\UserSeeder.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Data\\UserSeeder.cs*",
+              "RelativeToolTip": "DevSpot\\Data\\UserSeeder.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:48:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevSpot\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:42:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Constants\\Roles.cs",
+              "RelativeToolTip": "DevSpot\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:05:31.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260213112102_creating-Database.cs",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Migrations\\20260213112102_creating-Database.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Migrations\\20260213112102_creating-Database.cs",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Migrations\\20260213112102_creating-Database.cs",
+              "RelativeToolTip": "DevSpot\\Migrations\\20260213112102_creating-Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:21:02.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DevSpot\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DevSpot\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-15T17:19:54.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.AspNetRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DevSpot/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DevSpot/True/SqlTable/dbo.AspNetRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-15T20:06:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevSpot.csproj",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\DevSpot.csproj",
+              "RelativeDocumentMoniker": "DevSpot\\DevSpot.csproj",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\DevSpot.csproj",
+              "RelativeToolTip": "DevSpot\\DevSpot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-15T21:04:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\elitebook 840 G6\\source\\repos\\DevSpot\\DevSpot\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "DevSpot\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T17:20:17.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
